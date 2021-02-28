@@ -1,4 +1,4 @@
-# What is this?
+## What is this?
 This is a syllabus of C programming course, made using latex. It can be used as a guide to study C programming. I made this to give it to my students. Please share this to anyone who may find this useful.
 
 ## How to compile locally?
